@@ -43,7 +43,7 @@ const Home = () => {
     <>
       <div className='md:flex mt-[84px]'>
         <div className='md:w-1/2 p-4'>
-          Add Splider Here
+          Add Splider Here yes here
           <Test />
         </div>
         <div className='md:w-1/2'>
